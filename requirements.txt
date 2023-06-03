@@ -1,0 +1,2 @@
+facebook_scraper==0.2.59
+pymongo==4.3.3
